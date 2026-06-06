@@ -1,0 +1,50 @@
+
+This software respects and protects the personal privacy rights of all users of its services. 
+
+In order to provide you with more accurate and personalized services, this software will use and disclose your personal information in accordance with the provisions of this Privacy Policy. However, this software will handle this information with a high level of diligence and prudence.
+
+Except as otherwise provided in this Privacy Policy, this software will not disclose this information externally or provide it to third parties without your prior consent.
+
+This software will update this Privacy Policy from time to time. When you agree to the Service Use Agreement of this software, it is deemed that you have agreed to all contents of this Privacy Policy.
+
+This Privacy Policy is an inseparable part of the Service Use Agreement of this software.
+
+1. Scope of Application
+a) When you use this software.
+
+2. Use of Information
+a) This software obtains the data from the files you provide and processes it on your device.
+
+3. Information Disclosure
+a) This software does not collect your information and will not disclose your information to untrusted third parties.
+
+4. Information Storage and Exchange
+Your information and materials will not be uploaded to cloud servers, and these information and materials will not be transferred abroad from your country or region or from the location where this software collects information and materials, nor will they be accessed, stored, or displayed abroad.
+
+5. Information Security
+This software only processes the data of your files and does not access the network. If you find that your personal information has been leaked, please contact us immediately so that appropriate measures can be taken.
+
+---------------------------------------------------------------------
+Simplified Chinese Version:
+简体中文版：
+
+本软件尊重并保护所有使用服务用户的个人隐私权。
+为了给您提供更准确、更有个性化的服务，本软件会按照本隐私权政策的规定使用和披露您的个人信息。但本软件将以高度的勤勉、审慎义务对待这些信息。
+除本隐私权政策另有规定外，在未征得您事先许可的情况下，本软件不会将这些信息对外披露或向第三方提供。
+本软件会不时更新本隐私权政策。您在同意本软件服务使用协议之时，即视为您已经同意本隐私权政策全部内容。
+本隐私权政策属于本软件服务使用协议不可分割的一部分。
+
+1.适用范围
+a) 在您使用本软件时。
+
+2.信息的使用
+a) 本软件获取您所提供的文件的数据，在您的设备上进行处理。
+
+3.信息披露
+a) 本软件不会收集您的信息，不会将您的信息披露给不受信任的第三方。
+
+4.信息存储和交换
+您的信息和资料不会被上传到云端服务器上，这些信息和资料也不会被传送至您所在国家、地区或本软件收集信息和资料所在地的境外并在境外被访问、存储和展示。
+
+5.信息安全
+本软件仅处理您的文件数据，不访问网络。如您发现自己的个人信息泄密，请您立即联络我们，以便采取相应措施。
